@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+}
+
+#container{
+	height: calc(100vh);
+	width: calc(100vw);
+	background-image: url('../assets/dragon.gif');
+	background-repeat: no-repeat;
+	background-color: black;
+}
+
+#text{
+	margin: 0;
+	background-color: white;
+}
+
+#home{
+	background-color: white;
+}

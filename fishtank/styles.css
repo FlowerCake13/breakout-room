@@ -1,0 +1,49 @@
+body{
+	margin: 0;
+}
+
+#container{
+	width: 100%;
+	height: calc(100vh);
+	background-color: #ccffff;
+}
+
+.item{
+	position: absolute;
+}
+
+#fish{
+	width: 150px;
+	position: absolute;
+}
+
+#rock1{
+	width: 400px;
+	bottom: 0;
+	left: 0;
+	z-index: 1;
+}
+
+#rock2{
+	width: 300px;
+	bottom: 0;
+	left: 280px;
+}
+
+#stones{
+	width: 200px;
+	bottom: 0;
+	left: 500px;
+}
+
+#rock3{
+	width: 100px;
+	bottom: 0;
+	left: 100px;
+}
+
+#rock4{
+	width: 400px;
+	bottom: 0;
+	left: 766px;
+}
